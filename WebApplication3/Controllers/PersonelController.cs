@@ -37,7 +37,7 @@ namespace WebApplication3.Controllers
             var personel = new Personel
             {
 
-                Name = "ASLI",
+                Name = "ilknur",
                 Surname = "aslı",
                 Department = "aslı",
                 Age = 18,
