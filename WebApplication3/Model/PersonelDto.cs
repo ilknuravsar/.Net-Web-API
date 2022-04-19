@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApplication3.Model
 {
-    public class PersonelDto
+    public class PersonelDto 
     {
         
         public string Name { get; set; }
